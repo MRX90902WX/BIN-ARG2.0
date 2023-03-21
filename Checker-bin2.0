@@ -10,7 +10,7 @@ echo -e "\e[1;37m| |_) | || |\  |_____/ ___ \|  _ <| |_| |\e[0m"
 echo -e "\e[1;34m|____/___|_| \_|    /_/   \_\_| \_\\_____|\e[0m"
 echo ""
 echo -e " \e[1;34%%\e[0m\e[1;37m%%\e[0m\e[1;34m%%\e[0m\e[1;36mBineria\e[0m\e[1;34m%%\e[0m\e[1;37m%%\e[0m\e[1;34m%%\e[0m     \e[1;31m\  /\e[0m"
-echo -e "                            \e[1;31m \/.\e[0m \e[1;37m2.0\e[0m \e[1;32mBeta\e[0m"
+echo -e "                        \e[1;31m \/.\e[0m \e[1;37m2.0\e[0m \e[1;32mBeta\e[0m"
 while :
 do
 echo -e "\e[1;37m[\e[0m\e[1;32m1\e[0m\e[1;37m]\e[0m \e[1;33mPagina de Carding\e[0m"
