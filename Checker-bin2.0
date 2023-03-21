@@ -9,8 +9,8 @@ echo -e "\e[1;37m|  _ \| ||  \| |_____ / _ \ | |_) | |  _\e[0m"
 echo -e "\e[1;37m| |_) | || |\  |_____/ ___ \|  _ <| |_| |\e[0m"
 echo -e "\e[1;34m|____/___|_| \_|    /_/   \_\_| \_\\_____|\e[0m"
 echo ""
-echo -e " \e[1;34%%\e[0m\e[1;37m%%\e[0m\e[1;34m%%\e[0m\e[1;36mMetodo 2023\e[0m\e[1;34m%%\e[0m\e[1;37m%%\e[0m\e[1;34m%%\e[0m     \e[1;31m\  /\e[0m"
-echo -e "                            \e[1;31m \/.\e[0m \e[1;37m1.8\e[0m \e[1;32mBeta\e[0m"
+echo -e " \e[1;34%%\e[0m\e[1;37m%%\e[0m\e[1;34m%%\e[0m\e[1;36mBineria\e[0m\e[1;34m%%\e[0m\e[1;37m%%\e[0m\e[1;34m%%\e[0m     \e[1;31m\  /\e[0m"
+echo -e "                            \e[1;31m \/.\e[0m \e[1;37m2.0\e[0m \e[1;32mBeta\e[0m"
 while :
 do
 echo -e "\e[1;37m[\e[0m\e[1;32m1\e[0m\e[1;37m]\e[0m \e[1;33mPagina de Carding\e[0m"
@@ -119,7 +119,7 @@ echo ""
 sleep 2
 echo -e "\e[1;33mCopia el enlace y pegalo en tu navegador\e[0m"
 echo ""
-echo -e "\e[1;33mArcadia-Bot-Telegram:\e[0m\e[1;37mhttps://t.me/ChatScrapperArcadia\e[0m"
+echo -e "\e[1;33mBot-Telegram:\e[0m\e[1;37mhttps://t.me/ChatScrapperArcadia\e[0m"
 echo ""
 exit
 esac
