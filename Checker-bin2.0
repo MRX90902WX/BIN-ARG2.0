@@ -107,7 +107,7 @@ echo ""
 sleep 2
 echo -e "\e[1;32mDescarga el pdf en el siguiente enlace\e[0m"
 echo ""
-echo -e "\e[1;33mEnlace:\e[0mhttps://drive.google.com/drive/folders/1Lm2PsxzN8QjXlfC5kIowJ2_1cDussKU1\e[1;37m"
+echo -e "\e[1;33mEnlace:\e[0m\e[1;37mhttps://drive.google.com/drive/folders/1Lm2PsxzN8QjXlfC5kIowJ2_1cDussKU1\e[0m"
 echo ""
 exit
 ;;
