@@ -3,7 +3,6 @@ from random import randint
 from os import system
 import datetime
 import random
-system("clear")
 
 print("\n")
 print("\033[1;34m (              (    (    (")     
