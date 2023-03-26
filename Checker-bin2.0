@@ -18,7 +18,8 @@ echo -e "\e[1;37m[\e[0m\e[1;32m2\e[0m\e[1;37m]\e[0m \e[1;33mChecker Argentina\e[
 echo -e "\e[1;37m[\e[0m\e[1;32m3\e[0m\e[1;37m]\e[0m \e[1;33mChecker bin\e[0m"
 echo -e "\e[1;37m[\e[0m\e[1;32m4\e[0m\e[1;37m]\e[0m \e[1;33mQue es Carding\e[0m"
 echo -e "\e[1;37m[\e[0m\e[1;32m5\e[0m\e[1;37m]\e[0m \e[1;33mBot Arcadia(telegram)\e[0m"
-echo -e "\e[1;37m[\e[0m\e[1;32m6\e[0m\e[1;37m]\e[0m \e[1;33mExtrapolar bin de rappi\e[0m"
+echo -e "\e[1;37m[\e[0m\e[1;32m6\e[0m\e[1;37m]\e[0m \e[1;33mBin de rappi + hbo max\e[0m"
+echo -e "\e[1;37m[\e[0m\e[1;32m7\e[0m\e[1;37m]\e[0m \e[1;33mExtrapolar bin de rappi\e[0m"
 echo -e -n "\e[1;31m>> \e[0m"
 read checker
 case $checker in
@@ -125,6 +126,11 @@ echo ""
 exit
 ;;
 6)
+#! /bin/bash
+python rappi.py
+exit
+;;
+7)
 #! /bin/bash
 echo ""
 bash extrarappi
