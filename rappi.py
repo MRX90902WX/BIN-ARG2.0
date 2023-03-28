@@ -115,8 +115,8 @@ def esValido(num_tarjeta):
 
 def generar_cc(bin_format):
   cc = ""
-  if len(bin_format) == 12:
-    for i in range(11):
+  if len(bin_format) == 16:
+    for i in range(15):
       if bin_format[i] in ("0", "1", "2", "3", "4", "5", "6", "7", "8", "9"):
         cc += bin_format[i]
         continue
