@@ -96,7 +96,7 @@ def main():
 main()
 print("\n")
 
-bin_formati = "469700000277xxxx"
+bin_format = "4338260002xxxxxx"
 
 def esValido(num_tarjeta):
   suma = 0
@@ -161,10 +161,11 @@ def ccv_gen():
   return ccv
 
 def main():
+ cc = generar_cc(bin_format)
  print("\033[1;31m=======\033[1;37mBIN #2\033[1;31m=======")
- print(f"\033[1;34mBIN : \033[1;32m469700000277xxxx")
- print(f"\033[1;34mFECHA : \033[1;32m7/24")
- print(f"\033[1;34mCVV : \033[1;32mgnd")
+ print(f"\033[1;34mBIN : \033[1;33m{cc}")
+ print(f"\033[1;34mFECHA : \033[1;33m{dategen()}")
+ print(f"\033[1;34mCVV : \033[1;33mgnd")
 main()
 print("\n")
 
