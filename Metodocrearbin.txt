@@ -1,0 +1,58 @@
+#COMO HACER UN BIN CON UN CHECKER
+
+=====EJEMPLO======
+
+1)En este caso voy a utilizar un checker de argentina para rappi , jalando a full.
+
+Checker = 433826
+
+Método de hacer el bin  👇 
+Primer paso: le agregamos 3 ceros al checker 
+
+Checker = 433826000
+Segundo paso: la generamos en namso o cualquier otro generador de bin ,así sin fecha sin cvv
+
+Ejemplo: 433826000xxxxxxx
+Resultado: 4338260002813363 06/24 847
+Como podemos ver tenemos ya la cc generada ahora la extrapolamos
+*nota: si le da resultado con un 2 mucho mejor ejemplo, 4338260002813363
+                                              ☝️ 
+O cualquier otro número par
+
+Extrapolacion:
+Tercer paso: 433826000281xxxx 06|24
+Vamos a generarla a una live 
+
+ENTONCES NO QUEDARIA EL NUEVO BIN
+
+========BIN==RAPPI=====
+BIN: 433826000281xxxx
+FECHA: 06|24
+CVV: RND
+VPN : ARG
+
+Resultado: 4338260002819667 06|24| 416
+
+COMO PUEDEN VER YA ME DIO UNA CC LIVE SIGNIFICA QUE ESTA VIVA Y PODEMOS AGREGAR LA TARGETA A RAPPI
+
+Nota; Pueden cojer cualquier checker lo importante es intentar calar 
+
+ESTE METODO YO LO CREE Y SI ME ESTA JALANDO ALGUNOS BIN ESPERO 🙏 
+QUE A USTEDES TAMBIEN LE JALEN EN
+ALGUNA PLATAFORMA
+=================================
+
+Si tienes alguna duda puedes escribirme al telegram : https://t.me/Demo593
+
+También tengo un curso vip para crear bin
+Más mejorado con algunos algoritmos.
+
+Les déjare mi herramienta para crear cc fakes para que saquen algún checker y vean su info a que pais pertenece y el nivel
+
+https://github.com/MRX90902WX/CC-Generador-fake
+
+Suscribite a mi canal de YouTube
+
+https://youtube.com/@demo-hacks
+
+#############################
