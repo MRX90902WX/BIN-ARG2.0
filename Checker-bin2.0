@@ -1,5 +1,6 @@
 #! /bin/bash
 
+chmod 777 Checker-bin2.0
 setterm -foreground blue
 git clone https://github.com/MRX90902WX/Pagina-de-Carding
 git clone https://github.com/MRX90902WX/Generador-de-BIN-RAPPI
